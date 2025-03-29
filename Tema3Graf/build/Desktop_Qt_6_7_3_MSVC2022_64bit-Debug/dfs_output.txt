@@ -1,0 +1,1 @@
+Nod	Parinte	Timp intrare	Timp ieșire
