@@ -1,0 +1,12 @@
+Adăugat muchie între nodul 1 si nodul 2 cu costul: 2
+Adăugat muchie între nodul 2 si nodul 1 cu costul: 5
+Adăugat muchie între nodul 3 si nodul 2 cu costul: 2
+Adăugat muchie între nodul 3 si nodul 4 cu costul: 3
+Adăugat muchie între nodul 3 si nodul 5 cu costul: 4
+Adăugat muchie între nodul 3 si nodul 6 cu costul: 2
+Adăugat muchie între nodul 4 si nodul 1 cu costul: 5
+Adăugat muchie între nodul 4 si nodul 2 cu costul: 3
+Adăugat muchie între nodul 5 si nodul 4 cu costul: 5
+Adăugat muchie între nodul 5 si nodul 6 cu costul: 3
+Adăugat muchie între nodul 6 si nodul 3 cu costul: 5
+Adăugat muchie între nodul 6 si nodul 5 cu costul: 5
