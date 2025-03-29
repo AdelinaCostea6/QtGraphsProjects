@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f6d7b53e0bb61ecd4830.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Arborescenta",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Arborescenta::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Arborescenta-Debug-06473640cfb3da3a565a.json",
+					"name" : "Arborescenta",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Arborescenta_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Arborescenta_autogen-Debug-56e5a1066f2d7bb8bff9.json",
+					"name" : "Arborescenta_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Arborescenta_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Arborescenta_autogen_timestamp_deps-Debug-46b830a444c10534726d.json",
+					"name" : "Arborescenta_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Dell/Desktop/AG/Arborescenta/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug",
+		"source" : "C:/Users/Dell/Desktop/AG/Arborescenta"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

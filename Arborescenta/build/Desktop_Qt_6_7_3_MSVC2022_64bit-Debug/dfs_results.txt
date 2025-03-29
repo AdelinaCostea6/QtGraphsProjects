@@ -1,0 +1,4 @@
+Nod	Parinte	Timp intrare	Timp ieșire
+1	0	1	6
+2	1	2	3
+3	1	4	5
