@@ -4,22 +4,14 @@ This repository contains various projects built using the **Qt** framework that 
 
 ## Projects Included
 
-### 1. **Dijkstra’s Algorithm on Luxembourg Map**
-- **Description**: A project that implements **Dijkstra’s algorithm** to compute the shortest path between two points on a graph representing the map of **Luxembourg**. The map data is read from an XML file, and the graph is visualized on a Qt-based graphical interface.
-- **Key Features**:
-  - Interactive map visualization.
-  - User selects two nodes (source and target) and calculates the shortest path.
-  - Displays the computed shortest path in real-time.
-  - Saves the adjacency list and the shortest path to text files for further analysis.
-
-### 2. **Graph Visualization**
+### 1. **Graph Visualization**
 - **Description**: Visualizes basic graphs and algorithms in a GUI. This project can be used for educational purposes to illustrate graph structures and their properties.
 - **Key Features**:
   - Visual representation of nodes and edges.
   - Supports different types of graph algorithms for pathfinding, connectivity, and traversal.
   - Dynamic interaction, where nodes and edges can be clicked to select or delete.
 
-### 3. **Graph Algorithms**
+### 2. **Graph Algorithms**
 - **Description**: Contains implementations of various graph algorithms such as **Breadth-First Search (BFS)**, **Depth-First Search (DFS)**, **Kruskal’s Algorithm**, and **Prim’s Algorithm**. The focus is on teaching graph traversal, spanning tree generation, and the workings of minimum spanning tree algorithms.
 - **Key Features**:
   - Algorithms are implemented and visualized step-by-step.
